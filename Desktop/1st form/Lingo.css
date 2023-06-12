@@ -1,0 +1,63 @@
+.Contact {
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    display: flex;
+    font-size: smaller;
+}
+
+.Name {
+    padding-bottom: 10px;
+}
+
+.Name-button {
+    border: 1px solid #a7a4a49f;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.Last {
+    padding-bottom: 10px;
+}
+
+.Last-button {
+    border: 1px solid #a7a4a49f;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.Email {
+    padding-bottom: 20px;
+}
+
+.Email-button {
+    border: 1px solid #a7a4a49f;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.Submit-box {
+    padding-bottom: 25px
+}
+
+.button {
+    width: 250px;
+    background-color: #fbf7f7;
+    border: 1px solid #a7a4a49f;
+    border-radius: 5px;
+}
+
+body {
+    height: 225px;
+    max-width: 250px;
+    margin: 250px auto 250px auto;
+    padding: 10px 15px 15px 15px;
+    background-color: #f2f2f2;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+form {
+    text-align: center;
+}
